@@ -20,7 +20,7 @@
 
 A modular telegram Python bot running on python3 with an SQLalchemy database.
 
-Originally a marie fork - Kigyō has evolved further and was built to be more beneficial for Anime Chats.
+Originally a Kigyō fork - Luffy ✨ has evolved further and was built to be more beneficial for Anime Chats.
 
 It can be found on telegram as [Luffy✨](https://t.me/LuffyGuard_bot).
 
@@ -35,8 +35,8 @@ The Support group can be reached out to at [Nakama Unity](https://t.me/nakamauni
 
 # How to setup
 
-- `git clone https://github.com/AnimeKaizoku/EnterpriseALRobot`
-- `cd EnterpriseALRobot`
+- `https://github.com/SeiryuXD/Luffy-Robot`
+- `cd Luffy-Robot`
 - `cp sample_config.ini config.ini`
 - *Fill in all the vars*
 - `pip3 install -U -r requirements.txt`
@@ -45,7 +45,7 @@ The Support group can be reached out to at [Nakama Unity](https://t.me/nakamauni
 *Enjoy!*
 
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Eagle Union](https://t.me/nakamaunity)  
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Nakama Unity](https://t.me/nakamaunity)  
 
 -------------------------------------------------------------------------------------
 
