@@ -1,5 +1,5 @@
-![Enterprise](https://i.imgur.com/IYqzviU.jpg)
-# Kigyō bot // @KigyoRobot
+![Enterprise]([https://i.imgur.com/IYqzviU.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPKkeyqIn2oU9HL-rDraO_KJ4eSP9BdGcJUSOguGAXJnjiOU0c-A1Iysm&s=10))
+# Luffy ✨ // @LuffyGuard_bot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
@@ -14,19 +14,19 @@
 ![Repository Size](https://img.shields.io/github/repo-size/Dank-del/EnterpriseALRobot?style=for-the-badge&logo=appveyor)</br>
 
 
-[![Join Support!](https://img.shields.io/badge/Support%20Chat-EagleUnion-red)](https://t.me/YorktownEagleUnion)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/Dank-del/EnterpriseALRobot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Dank-del/EnterpriseALRobot&amp;utm_campaign=Badge_Grade)
+[![Join Support!](https://img.shields.io/badge/Support%20Chat-Nakama_Unity-red)](https://t.me/NakamaUnity)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cfb691a93a064d9ea753ef2b5fccf797)](https://www.codacy.com/manual/SeiryuXD/Luffy-Robot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SeiryuXD/Luffy-Robot&amp;utm_campaign=Badge_Grade)
 
 
 A modular telegram Python bot running on python3 with an SQLalchemy database.
 
 Originally a marie fork - Kigyō has evolved further and was built to be more beneficial for Anime Chats.
 
-It can be found on telegram as [Kigyō](https://t.me/kigyorobot).
+It can be found on telegram as [Luffy✨](https://t.me/LuffyGuard_bot).
 
 ⚠️ Warning: The support group does not provide assistance on forks, if you forked the code or ran your own custom bot you should know your way around the code.
 
-The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEagleUnion), where you can ask for help setting up our bot in your group, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
+The Support group can be reached out to at [Nakama Unity](https://t.me/nakamaunity), where you can ask for help setting up our bot in your group, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
 
 
@@ -45,7 +45,7 @@ The Support group can be reached out to at [Eagle Union](https://t.me/YorktownEa
 *Enjoy!*
 
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [Eagle Union](https://t.me/YorktownEagleUnion)  
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Eagle Union](https://t.me/nakamaunity)  
 
 -------------------------------------------------------------------------------------
 
