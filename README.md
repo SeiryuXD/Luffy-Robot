@@ -1,4 +1,4 @@
-![Enterprise]([https://i.imgur.com/IYqzviU.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZPKkeyqIn2oU9HL-rDraO_KJ4eSP9BdGcJUSOguGAXJnjiOU0c-A1Iysm&s=10))
+![Enterprise](https://telegra.ph/file/b630efcfc9f4ce161808a.jpg)
 # Luffy ✨ // @LuffyGuard_bot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
